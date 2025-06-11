@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hari120803
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Angular and React
-- 💞️ I’m looking to collaborate on ASP.net web applicaitons
+- 👀 I love coding
 - 📫 How to reach me hari120803@gamil.com
 
 <!---
